@@ -14,10 +14,10 @@ Project Presentation: [Slideshow](https://docs.google.com/presentation/d/1aS1V9p
 Dataset : [Dataset](https://drive.google.com/file/d/1AaO4NnnrfsMYIN_vB5h1lP4TrCDlj72S/view?usp=sharing)
 
 # Attribute Information
-      Location
-      Tweet at
-      Original Tweet
-      Sentiments
+     Location
+     Tweet at
+     Original Tweet
+     Sentiments
       
 # Project Flowchart:
      Loading data and Diagnosing the data
@@ -56,11 +56,11 @@ We are importing the following libraries for their respective applications:
 **Statsmodels:-** Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
     
 # Models Used
-  	   Naive Bayes
-        Stochastic Gradient Descent (SGD)
-        Random Forest
-        Support Vector Machine
-        Logistic Regression
+  	 Naive Bayes
+      Stochastic Gradient Descent (SGD)
+      Random Forest
+      Support Vector Machine
+      Logistic Regression
 
 ****
 
