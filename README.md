@@ -1,10 +1,8 @@
-# Corona-Virus Tweet Analysis
-ML Project (Classification Model)
-
-<img src="https://healthmatters.nyp.org/wp-content/uploads/2020/03/Article-hero.jpg" width="800" height="500"/>
-
-This repository consists of Corona-Virus Tweet Analysis. 
-This is done by applying various Classification Machine Learning Algorithms.
+# Covid-19 Tweet Analysis
+<p align="center">
+<img 
+     src="https://media.tenor.com/1j3-qb9Y_24AAAAC/covid-19.gif" >
+</p>
 
 # Problem Statement
 
@@ -12,16 +10,16 @@ The diseases that currently affect the world, especially which are classified as
 The main objective is to make a predictive model, which could help  in predicting the Sentiment of a tweets.
 
 # Attribute Information
-  •	Location
-  •	Tweet at
-  •	Original Tweet
-  •	Sentiments
+      	Location
+        Tweet at
+        Original Tweet
+        Sentiments
 
 # Models Used
-  •	Naive Bayes
-  •	Stochastic Gradient Descent (SGD)
-  •	Random Forest
-  •	Support Vector Machine
-  •	Logistic Regression
+  	    Naive Bayes
+        Stochastic Gradient Descent (SGD)
+      	Random Forest
+      	Support Vector Machine
+      	Logistic Regression
 
 
