@@ -56,7 +56,7 @@ We are importing the following libraries for their respective applications:
 **Statsmodels:-** Statsmodels is a Python module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration.
     
 # Models Used
-  	 Naive Bayes
+  	Naive Bayes
       Stochastic Gradient Descent (SGD)
       Random Forest
       Support Vector Machine
